@@ -5,13 +5,13 @@ Section: Utilities
 Architecture: iphoneos-arm
 Author: XZ1r0
 Maintainer: XZ1r0
-Description: iOS frpc client with Settings panel
+Description: iOS frpc client with Settings panel. Auto-reload config.
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
 Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
-Size: 5197810
-MD5sum: 5522c2b279bf72725a11ddf81558664d
-SHA1: c68fc19c699b1b7246944b369ff9505982673eff
-SHA256: 39e2e5549ef5bb86ecde62c2ea8b233947af1ff0587324346123a9a51a453a71
+Size: 5199414
+MD5sum: 6e1a1193e74f2c057681e6a104d4c4b4
+SHA1: 47d0bc822a2a13fa25e665a1c3794ed256c3bc7b
+SHA256: 0433cad311c1f7785c50e5e867ffcee608d0c367470c00cb83ffbfe14c2b1849
 
 Package: com.xz1r0.frpc
 Name: FrpcTweak
@@ -20,11 +20,11 @@ Section: Utilities
 Architecture: iphoneos-arm64
 Author: XZ1r0
 Maintainer: XZ1r0
-Description: iOS frpc client with Settings panel
+Description: iOS frpc client with Settings panel. Auto-reload config.
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
 Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
-Size: 5197810
-MD5sum: 5522c2b279bf72725a11ddf81558664d
-SHA1: c68fc19c699b1b7246944b369ff9505982673eff
-SHA256: 39e2e5549ef5bb86ecde62c2ea8b233947af1ff0587324346123a9a51a453a71
+Size: 5199414
+MD5sum: 6e1a1193e74f2c057681e6a104d4c4b4
+SHA1: 47d0bc822a2a13fa25e665a1c3794ed256c3bc7b
+SHA256: 0433cad311c1f7785c50e5e867ffcee608d0c367470c00cb83ffbfe14c2b1849
 
