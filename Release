@@ -3,9 +3,10 @@ Label: XZ1r0 Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Date: Thu, 30 Jul 2026 17:04:37 GMT
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: XZ1r0's Cydia/Sileo Repository
+Description: XZ1r0 Cydia/Sileo Repository
 MD5Sum:
  77814e9067b6155e79a0ece6c56c8dbe 527 Packages
  947f4d6226b47ed45646b0b33074926f 425 Packages.bz2
