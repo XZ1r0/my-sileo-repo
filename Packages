@@ -1,31 +1,3 @@
-Package: com.xz1r0.frpc-test
-Name: FRPC Test
-Version: 1.0.0
-Section: Utilities
-Architecture: iphoneos-arm
-Author: XZ1r0
-Maintainer: XZ1r0
-Description: Tiny test package - verifies repo is working
-Filename: deb/com.xz1r0.frpc-test_1.0.0_iphoneos-arm.deb
-Size: 690
-MD5sum: 8e1cc7a268d2e690fb595412674e9017
-SHA1: b382fa7810446bcd1e637f7d021644aa4951cbe5
-SHA256: a847f9204f903b939a2d49664cb47cda5edf690c3bade5ae5db2c2c3b786d828
-
-Package: com.xz1r0.frpc-test
-Name: FRPC Test
-Version: 1.0.0
-Section: Utilities
-Architecture: iphoneos-arm64
-Author: XZ1r0
-Maintainer: XZ1r0
-Description: Tiny test package - verifies repo is working
-Filename: deb/com.xz1r0.frpc-test_1.0.0_iphoneos-arm.deb
-Size: 690
-MD5sum: 8e1cc7a268d2e690fb595412674e9017
-SHA1: b382fa7810446bcd1e637f7d021644aa4951cbe5
-SHA256: a847f9204f903b939a2d49664cb47cda5edf690c3bade5ae5db2c2c3b786d828
-
 Package: com.xz1r0.frpc
 Name: FrpcTweak
 Version: 1.0.0
@@ -36,10 +8,10 @@ Maintainer: XZ1r0
 Description: iOS frpc client with Settings panel. Auto-reload config.
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
 Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
-Size: 5199414
-MD5sum: 6e1a1193e74f2c057681e6a104d4c4b4
-SHA1: 47d0bc822a2a13fa25e665a1c3794ed256c3bc7b
-SHA256: 0433cad311c1f7785c50e5e867ffcee608d0c367470c00cb83ffbfe14c2b1849
+Size: 5199420
+MD5sum: 9d6b0059cc6ec754bc2d28dbb1810133
+SHA1: e2d1a5969abf55bff1e8d1053931bd78b1874405
+SHA256: 3adb30199c835556afc65ba216963c88271120753fc746aeeed08a8aa7821fb4
 
 Package: com.xz1r0.frpc
 Name: FrpcTweak
@@ -50,9 +22,9 @@ Author: XZ1r0
 Maintainer: XZ1r0
 Description: iOS frpc client with Settings panel. Auto-reload config.
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
-Size: 5199414
-MD5sum: 6e1a1193e74f2c057681e6a104d4c4b4
-SHA1: 47d0bc822a2a13fa25e665a1c3794ed256c3bc7b
-SHA256: 0433cad311c1f7785c50e5e867ffcee608d0c367470c00cb83ffbfe14c2b1849
+Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm64.deb
+Size: 5199422
+MD5sum: b6f0a4b43e211248d63174faa5cf88b0
+SHA1: e4e1bc6f02d89a2b09d4e2fde7f13509e9446e11
+SHA256: 976b64d98f133d7fcba2645070dc72b6ed1c409129e1f523d9225b598a06b1e4
 
