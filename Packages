@@ -3,8 +3,21 @@ Name: FrpcTweak
 Version: 1.0.0
 Section: Utilities
 Architecture: iphoneos-arm
-Depends: firmware (>= 14.0)
-Installed-Size: 14368
+Author: XZ1r0
+Maintainer: XZ1r0
+Description: iOS frpc client with Settings panel
+Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
+Filename: deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
+Size: 5195578
+MD5sum: a727e1cfd9f62866bef97937aabd7e40
+SHA1: 530fcef7ad5ad88efbf74849228ed70b1e2cf930
+SHA256: a6c6a14b639293b9825b295357110517ee843934304d8b82735aaf0e3df7210e
+
+Package: com.xz1r0.frpc
+Name: FrpcTweak
+Version: 1.0.0
+Section: Utilities
+Architecture: iphoneos-arm64
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: iOS frpc client with Settings panel
