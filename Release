@@ -1,0 +1,14 @@
+Origin: XZ1r0 Repo
+Label: XZ1r0 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: XZ1r0's Cydia/Sileo Repository
+MD5Sum:
+ c08d4ea2bc1318f6cdd389f6daf267c3 543 Packages
+ d3907c8430adabfe3a536a2d73e0f5ba 433 Packages.bz2
+SHA256:
+ a3279b2b3a5e1bf1fdcae000c1e1204f827ac7a2a3b2694c4473b92df8c1427a 543 Packages
+ dcb33068b9740d59ac86c9870941505c6ac49658ac5937a943aeef9b72e36a31 433 Packages.bz2
