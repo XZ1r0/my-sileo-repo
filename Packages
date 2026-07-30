@@ -1,3 +1,31 @@
+Package: com.xz1r0.frpc-test
+Name: FRPC Test
+Version: 1.0.0
+Section: Utilities
+Architecture: iphoneos-arm
+Author: XZ1r0
+Maintainer: XZ1r0
+Description: Tiny test package - verifies repo is working
+Filename: deb/com.xz1r0.frpc-test_1.0.0_iphoneos-arm.deb
+Size: 690
+MD5sum: 8e1cc7a268d2e690fb595412674e9017
+SHA1: b382fa7810446bcd1e637f7d021644aa4951cbe5
+SHA256: a847f9204f903b939a2d49664cb47cda5edf690c3bade5ae5db2c2c3b786d828
+
+Package: com.xz1r0.frpc-test
+Name: FRPC Test
+Version: 1.0.0
+Section: Utilities
+Architecture: iphoneos-arm64
+Author: XZ1r0
+Maintainer: XZ1r0
+Description: Tiny test package - verifies repo is working
+Filename: deb/com.xz1r0.frpc-test_1.0.0_iphoneos-arm.deb
+Size: 690
+MD5sum: 8e1cc7a268d2e690fb595412674e9017
+SHA1: b382fa7810446bcd1e637f7d021644aa4951cbe5
+SHA256: a847f9204f903b939a2d49664cb47cda5edf690c3bade5ae5db2c2c3b786d828
+
 Package: com.xz1r0.frpc
 Name: FrpcTweak
 Version: 1.0.0
