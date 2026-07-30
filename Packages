@@ -1,21 +1,21 @@
 Package: com.xz1r0.frpc
 Name: FRPC Daemon
-Version: 1.0.3
+Version: 1.0.5
 Section: Utilities
 Architecture: iphoneos-arm
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.3_iphoneos-arm.deb
-Size: 5196276
-MD5sum: 65a803dffe5d8220dee9660d888fba44
-SHA1: f05f2d06177f9d1b26634f7df6713242ac445b84
-SHA256: 2c7d7b42bf82c4c6caccd4f513b64119c3fb8ab973dd93d2e229561b1fb30318
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.5_iphoneos-arm.deb
+Size: 5196682
+MD5sum: 80be976972c2644e0d512eb66d817c72
+SHA1: 28d8b6d10132aefdb07972b29eee0c0ac754bf65
+SHA256: 64890c9ccc2e6de052668b24a121b33f9beb4b2785c1f9b57fe371cf5701ab09
 
 Package: com.xz1r0.frpcprefs
 Name: FRPC Settings
-Version: 1.0.4
+Version: 1.0.5
 Section: Utilities
 Architecture: iphoneos-arm
 Depends: com.xz1r0.frpc
@@ -23,30 +23,30 @@ Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.4_iphoneos-arm.deb
-Size: 1262
-MD5sum: b0aef56cd76b653cf651bf374a30e2de
-SHA1: 465af22467696919e21358de68c3d8f82cba18bc
-SHA256: c774e20c9afc2bb3c2258450e1ae63f2ee73204616b99572c9f0b4700eeace67
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.5_iphoneos-arm.deb
+Size: 1362
+MD5sum: c5e1ed2cc840df2b598084dd9de75c00
+SHA1: 66c79bd2db6db6ccf2f5d75c855c9d8a04cd44be
+SHA256: 1f6abc32a193717af21e7ecb34235d11c7bb671a7ffa97f5adc2adf3835cb02b
 
 Package: com.xz1r0.frpc
 Name: FRPC Daemon
-Version: 1.0.3
+Version: 1.0.5
 Section: Utilities
 Architecture: iphoneos-arm64
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.3_iphoneos-arm64.deb
-Size: 5196276
-MD5sum: 9a4413889938379ed5c909a8ba2baf69
-SHA1: 07202175a7e376056bb0b679f8b6361adcbf0ff3
-SHA256: b0f05a74d7ecb631611758cd8571864d29801d3b7954d895d2cbe5e0de08970b
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.5_iphoneos-arm64.deb
+Size: 5196686
+MD5sum: ba532ebf137238f536e3718b4e2696c4
+SHA1: 7de8c2c61b986f925913d3178ca73b5d849ac200
+SHA256: d45de5b256d7c0bb823d682be3069a1d64c5f76f5a1af84bb016b51c4b8c7365
 
 Package: com.xz1r0.frpcprefs
 Name: FRPC Settings
-Version: 1.0.4
+Version: 1.0.5
 Section: Utilities
 Architecture: iphoneos-arm64
 Depends: com.xz1r0.frpc
@@ -54,8 +54,8 @@ Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.4_iphoneos-arm64.deb
-Size: 1264
-MD5sum: ef54903f8d271132fed82a172fa47e87
-SHA1: 382728555bc537a0115544cc805d682053370a39
-SHA256: a6b48fa09bfd400a00680cc11d5c9726a29aeafac18b4eff0335dd04e2e9be1d
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.5_iphoneos-arm64.deb
+Size: 1362
+MD5sum: 0ec19a195e8e09aa99f1ac5cb63f21db
+SHA1: 77cdcce5ea23a127bcfe70c519629b19c1580c83
+SHA256: 4a15b6a0fa6b95fd6abbc6b6802a91f5cb79d27ae35e1fec84c1f9e35f0f3fb9
