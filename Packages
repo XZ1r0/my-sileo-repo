@@ -6,8 +6,8 @@ Architecture: iphoneos-arm
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
-Depiction: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/depiction.html
-Filename: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
+Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.0_iphoneos-arm.deb
 Size: 5196458
 MD5sum: 40ddccbfe81370e318ce6fc95dea70d5
 SHA1: a8f770271157041933658cebd2ecfe9ebad2c102
@@ -22,8 +22,8 @@ Depends: com.xz1r0.frpc
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
-Depiction: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/depiction.html
-Filename: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/deb/com.xz1r0.frpcprefs_1.0.0_iphoneos-arm.deb
+Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.0_iphoneos-arm.deb
 Size: 3294
 MD5sum: e2e7b368f429156163f1139f420256c5
 SHA1: 138ed786553e4a76375a33ade7d30a8415cf2c1d
@@ -37,8 +37,8 @@ Architecture: iphoneos-arm64
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
-Depiction: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/depiction.html
-Filename: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/deb/com.xz1r0.frpc_1.0.0_iphoneos-arm64.deb
+Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpc_1.0.0_iphoneos-arm64.deb
 Size: 5196460
 MD5sum: 7c8f9d3bff6c9d327944df047a78f78a
 SHA1: f051d870c3c2c768ff365050da839b4ec1aa9d4b
@@ -53,8 +53,8 @@ Depends: com.xz1r0.frpc
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
-Depiction: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/depiction.html
-Filename: https://raw.githubusercontent.com/XZ1r0/my-sileo-repo/main/deb/com.xz1r0.frpcprefs_1.0.0_iphoneos-arm64.deb
+Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
+Filename: https://xz1r0.github.io/my-sileo-repo/deb/com.xz1r0.frpcprefs_1.0.0_iphoneos-arm64.deb
 Size: 3298
 MD5sum: c4e228c1d4eeccdc163eafeb795d65d9
 SHA1: 4122e2597d77c57fd18ee185020386039f7c2141
