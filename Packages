@@ -1,6 +1,6 @@
 Package: com.xz1r0.frpc
 Name: FRPC Daemon
-Version: 1.0.13
+Version: 1.0.14
 Section: Utilities
 Architecture: iphoneos-arm
 Depends: libiosexec1
@@ -8,18 +8,18 @@ Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: deb/com.xz1r0.frpc_1.0.13_iphoneos-arm.deb
-Size: 5197572
-MD5sum: e96ea957b8aa7132d4dc7c02f6e27059
-SHA1: d5605e207eab1ff19c2eee78c6df0640b2b0fb8c
-SHA256: 640013205331b5af53a53f16ab9fcd9d30d8a9be988e0869f7069c69c6625109
+Filename: deb/com.xz1r0.frpc_1.0.14_iphoneos-arm.deb
+Size: 5197564
+MD5sum: ba7848747a5cc08612c0e412fe5ab4fe
+SHA1: 4ddc92f5c1303aae639992a9a7beba9772d295d8
+SHA256: f249e522a3600de8cfba94983789bf345bb3c64b4571eafe5540b28b747ea644
 
 Package: com.xz1r0.frpcprefs
 Name: FRPC Settings
 Version: 1.0.13
 Section: Utilities
 Architecture: iphoneos-arm
-Depends: com.xz1r0.frpc
+Depends: com.xz1r0.frpc (>= 1.0.14)
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
@@ -32,7 +32,7 @@ SHA256: d990c032ca834aa507b0b228dc24988d8239dda1c06e15e19b5dcb3168f6b9c1
 
 Package: com.xz1r0.frpc
 Name: FRPC Daemon
-Version: 1.0.13
+Version: 1.0.14
 Section: Utilities
 Architecture: iphoneos-arm64
 Depends: libiosexec1
@@ -40,18 +40,18 @@ Author: XZ1r0
 Maintainer: XZ1r0
 Description: frpc binary + auto-reload daemon
 Depiction: https://xz1r0.github.io/my-sileo-repo/depiction.html
-Filename: deb/com.xz1r0.frpc_1.0.13_iphoneos-arm64.deb
-Size: 5197574
-MD5sum: ece623a95ed85f21aca3c1a8f8ed403d
-SHA1: 58429852958ad1943afc315030707f0a5f5ac8f9
-SHA256: 78da81657476a346d16828d7e3e9a5cb80245fd93cbf6216a45913ffea2f2724
+Filename: deb/com.xz1r0.frpc_1.0.14_iphoneos-arm64.deb
+Size: 5197562
+MD5sum: 85b1ff119054bf033543f98c3b27b869
+SHA1: 88372120b73225027870b796514e0e63740c1de0
+SHA256: 2ae84134664f4e9dd7a7dba106318cfdfe31539ddd8f6ef05106f259fdaf0134
 
 Package: com.xz1r0.frpcprefs
 Name: FRPC Settings
 Version: 1.0.13
 Section: Utilities
 Architecture: iphoneos-arm64
-Depends: com.xz1r0.frpc
+Depends: com.xz1r0.frpc (>= 1.0.14)
 Author: XZ1r0
 Maintainer: XZ1r0
 Description: Settings panel for FRPC
@@ -61,3 +61,4 @@ Size: 15804
 MD5sum: 643cabe69dfc110a2a4fa67327fdf7a4
 SHA1: 3be52b768990e20ff0f48d27ba0388204c5cabb2
 SHA256: 6b4cf95cb784661993faef24778f938bed843917105e21f722c50b2a20c3d1bd
+
