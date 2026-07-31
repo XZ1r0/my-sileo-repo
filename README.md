@@ -11,4 +11,4 @@ https://xz1r0.github.io/my-sileo-repo
 
 | Package | Version | Description |
 |---------|---------|-------------|
-| FRPC Daemon | 1.0.16 | iOS frpc client with native Settings app integration |
+| FRPC Daemon | 1.0.17 | iOS frpc client with native Settings app integration |
